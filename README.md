@@ -1,4 +1,4 @@
-#QR Scanner Application
+<h1>QR Scanner Application</h1>
 
 Overview
 This is a simple QR Scanner Android application built using Java in Android Studio. The app allows users to scan QR codes, which will automatically redirect to the encoded URL or content.
